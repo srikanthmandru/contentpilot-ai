@@ -166,6 +166,14 @@ Strategy Template: Weekly Plan</br>
 - Enter refinement: Make the LinkedIn post shorter and more founder-friendly.
 - Click Regenerate LinkedIn
 
-**Image generation query:**
+**Image generation queries:**
 - Research AI automation for restaurants and create an image prompt. (just generates image prompt when image generation setting is set to false)
 - Create a clean marketing image idea for AI automation in restaurants.
+
+📌 Disclaimer
+
+This application is for educational purposes only and does not provide any advice.
+
+⭐ If you like this project
+
+Give it a star ⭐ and feel free to contribute!
