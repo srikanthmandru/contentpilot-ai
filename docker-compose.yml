@@ -1,0 +1,11 @@
+services:
+  contentpilot-ai:
+    image: contentpilot-ai:latest
+    build: .
+    container_name: contentpilot-ai
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    volumes:
+      - ./outputs:/app/outputs
